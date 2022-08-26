@@ -1,5 +1,6 @@
 <script>
 // eslint-disable-next-line import/named
+import { useRuntimeConfig } from "#imports"
 import { h } from 'vue'
 
 export default {
